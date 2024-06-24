@@ -12,5 +12,5 @@ Feel free to explore my repositories and reach out if you want to join my projec
 [![Linkedin: Andy](https://img.shields.io/badge/-andy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-chan-140066294/)](https://www.linkedin.com/in/andy-chan-140066294/)
 
 # Repositories
-**CFA_1InvestmentTools**: https://github.com/kachunchan-analytics/CFA_1InvestmentTools
+**CFA_1InvestmentTools**: https://github.com/kachunchan-analytics/CFA_1InvestmentTools <br>
 **SPAC_Analytics**: https://github.com/kachunchan-analytics/SPAC_Analytics
