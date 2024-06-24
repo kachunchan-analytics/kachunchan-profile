@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Andy!
-Welcome to my profile! 💻 I'm Chan Ka Chun, and you may also call me Andy. 
+Welcome to my profile! 💻 I'm Chan Ka Chun, and you may also call me Andy. I come from Hong Kong.
 
 I love diving into financial data with Python. 📈 I'm also skilled in Javascript and HTML, rounding out my web development toolkit. <br>
 How about LLM and prompt engineering? They ARE my beloved helpers!! AI with Python🐍🐍 is one of my hobbies!!
