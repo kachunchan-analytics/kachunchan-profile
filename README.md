@@ -11,3 +11,7 @@ Feel free to explore my repositories and reach out if you want to join my projec
 # Let's connect! 🤝
 
 Linkedin: https://www.linkedin.com/in/andy-chan-140066294/
+Email: kachunchan.a@gamil.com
+
+# Repositories
+CFA_1InvestmentTools: https://github.com/kachunchan-analytics/CFA_1InvestmentTools
