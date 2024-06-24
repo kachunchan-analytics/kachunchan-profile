@@ -13,3 +13,4 @@ Feel free to explore my repositories and reach out if you want to join my projec
 
 # Repositories
 **CFA_1InvestmentTools**: https://github.com/kachunchan-analytics/CFA_1InvestmentTools
+**SPAC_Analytics**: https://github.com/kachunchan-analytics/SPAC_Analytics
